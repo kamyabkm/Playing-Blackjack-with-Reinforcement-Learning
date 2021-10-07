@@ -1,4 +1,4 @@
-# playing_blackjack
+# Playing_Blackjack_with_Reinforcement_Learning
 
 This repository contains the code and report submitted for a Machine Learning class project.
 
